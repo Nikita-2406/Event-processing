@@ -1,0 +1,11 @@
+.impactField {
+    width: 150px;
+    height: 150px;
+    border: solid 2px black;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.invisible {
+    display: none;
+}
